@@ -80,8 +80,9 @@ I am a hybrid systems and web developer focused on application optimization and 
 | [get_next_line](https://github.com/dde-fite/42_get_next_line) | ![125/100](https://img.shields.io/badge/score-125%2F100-8a2be2) | ![](https://codestats.cloud.defitero.com/api/badge/nora.defitero/interval:any/project:42_get_next_line) | Read file line by line |
 | Born2beroot | ![121/100](https://img.shields.io/badge/score-121%2F100-8a2be2) | - | Linux sysadmin project |
 | [push_swap](https://github.com/dde-fite/42_push_swap) | ![](https://img.shields.io/badge/score-125%2F100-8a2be2) | ![](https://codestats.cloud.defitero.com/api/badge/nora.defitero/interval:any/project:42_push_swap) | Sorting algorithm challenge |
-| [Python Piscine](https://github.com/dde-fite/42_Python_Piscine) | ![pending score](https://img.shields.io/badge/score-pending-8a2be2) | ![](https://codestats.cloud.defitero.com/api/badge/nora.defitero/interval:any/project:42_Python_Piscine) | Intensive introduction to Python programming |
+| [Python Piscine](https://github.com/dde-fite/42_Python_Piscine) | ![100/100](https://img.shields.io/badge/score-100%2F100-8a2be2) | ![](https://codestats.cloud.defitero.com/api/badge/nora.defitero/interval:any/project:42_Python_Piscine) | Intensive introduction to Python programming |
 | [a_maze_ing](https://github.com/dde-fite/42_a_maze_ing) | ![125/100](https://img.shields.io/badge/score-125%2F100-8a2be2) | ![](https://codestats.cloud.defitero.com/api/badge/nora.defitero/interval:any/project:42_a_maze_ing) | Maze generation and visualization |
+| [Fly in](https://github.com/dde-fite/42_Fly_in) | ![pending score](https://img.shields.io/badge/score-pending-8a2be2) | ![](https://codestats.cloud.defitero.com/api/badge/nora.defitero/interval:any/project:42_Fly_in) | Drone traffic management system between stations and a visualizer |
 
 ### Side Projects
 | Project | Description |
