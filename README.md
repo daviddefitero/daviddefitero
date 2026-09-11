@@ -78,7 +78,7 @@ I am a hybrid systems and web developer focused on application optimization and 
 | [Libft](https://github.com/noradefitero/42_libft) | ![125/100](https://img.shields.io/badge/score-125%2F100-8a2be2) | My own C standard library |
 | [ft_printf](https://github.com/noradefitero/42_ft_printf) | ![125/100](https://img.shields.io/badge/score-125%2F100-8a2be2) | Recreation of printf |
 | [get_next_line](https://github.com/noradefitero/42_get_next_line) | ![125/100](https://img.shields.io/badge/score-125%2F100-8a2be2) | Read file line by line |
-| Born2beroot | ![121/100](https://img.shields.io/badge/score-121%2F100-8a2be2) | - | Linux sysadmin project |
+| Born2beroot | ![121/100](https://img.shields.io/badge/score-121%2F100-8a2be2) | Linux sysadmin project |
 | [push_swap](https://github.com/noradefitero/42_push_swap) | ![](https://img.shields.io/badge/score-125%2F100-8a2be2) | Sorting algorithm challenge |
 | [Python Piscine](https://github.com/noradefitero/42_Python_Piscine) | ![100/100](https://img.shields.io/badge/score-100%2F100-8a2be2) | Intensive introduction to Python programming |
 | [a_maze_ing](https://github.com/noradefitero/42_a_maze_ing) | ![125/100](https://img.shields.io/badge/score-125%2F100-8a2be2) | Maze generation and visualization |
